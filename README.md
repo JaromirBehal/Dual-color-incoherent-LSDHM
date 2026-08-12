@@ -5,7 +5,7 @@ The repository is organized as follows:
 
 ## Main MATLAB file
 
-**'MultiWavelengths_Cheek_cells_and_Oil_drop.m'**
+**`MultiWavelengths_Cheek_cells_and_Oil_drop.m`**
 
 The main MATLAB script used for loading and processing the camera images. It performs the reconstruction and analysis of the experimental data.
 
