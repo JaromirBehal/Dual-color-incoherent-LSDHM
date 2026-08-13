@@ -19,4 +19,4 @@ Contains the MATLAB functions used by the main script:
 
 - **`apodiz_SG.m`** — function for apodization of the input data.
 - **`apodization_for_propag.m`** — function for applying apodization prior to numerical propagation.
-- **`off_axis_reconstruction_general.m`** — general function for off-axis digital holographic reconstruction.
+- **`off_axis_reconstruction_general.m`** — general function for holographic reconstruction.
