@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dual-color-incoherent-LSDHM
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Jaromir
+    family-names: Behal
+    email: Jaromir.Behal@upol.cz
+    name-particle: Jaromír
+    orcid: 'https://orcid.org/0000-0001-5537-4091'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JaromirBehal/Dual-color-incoherent-LSDHM
