@@ -27,7 +27,7 @@ clear all; close all; clc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%      INTERFERENCE PATTERNS - CHEEK CELLS       %%%%%%%%%%%%%%%%
 
-directory_images='C:\Users\jaray\Desktop\incoh_lat_shear_DH\WAVELENGTHS\mfiles\final_2026_07_15\data'; % folder with camera records
+directory_images='C:\Users\....\data'; % folder with camera records
 
     % interference pattern with CHEEK cells
     I=apodization_for_propag(fitsread([directory_images '\2026-07-09-0742_9-CapObj_0000.FIT']));
