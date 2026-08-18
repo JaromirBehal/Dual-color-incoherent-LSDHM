@@ -1,4 +1,3 @@
-```markdown
 # Data and Function Structure
 
 The repository is organized as follows:
@@ -17,6 +16,6 @@ Contains the raw camera images acquired during the experiments with cheek cells 
 
 Contains the MATLAB functions used by the main script:
 
-- **`apodiz_SG.m`** — function for apodization of the input data.
-- **`apodization_for_propag.m`** — function for applying apodization prior to numerical propagation.
+- **`apodiz_SG.m`** — higher-order Gaussian function for apodization of the input data.
+- **`apodization_for_propag.m`** — function for applying apodization prior to Fourier transform if the image.
 - **`off_axis_reconstruction_general.m`** — general function for holographic reconstruction.
